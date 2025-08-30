@@ -1,4 +1,4 @@
-//PRINT THE SUM OF N NATURAL NUMBERS 
+//PRINT THE SUM OF N NATURAL NUMBERS IN JAVA CODE
 import java.util.*;
 public class solution{
     public static void main(String[]args){
